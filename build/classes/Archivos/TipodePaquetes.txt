@@ -1,0 +1,4 @@
+654,Electrodomesticos,30000
+744,Ropa,17000
+867,Alimentos,24000
+544,Muebles,35700

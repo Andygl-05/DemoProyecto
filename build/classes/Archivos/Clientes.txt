@@ -1,0 +1,7 @@
+4,Juan,Heredia,61895739,Juang89@gmail.com
+2,Andy,Alajuela,88194288,andyg0800@gmail.com
+6,Juana,Puntarenas,70122116,Juanaf@gmail.com
+3,Rachell,Cartago,60115930,RSCM@hotmail.com
+888,Lupe,Curridabat,67544530,lupef888@gmail.com
+10,Pablo,Cartago,83236566,pablogg@gmail.com
+15,Luis Rodolfo,Cartago,8856474,rF@gmail.com

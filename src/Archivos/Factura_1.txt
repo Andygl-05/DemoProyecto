@@ -1,0 +1,14 @@
+                      CACHIFLIN EXPRESS
+
+Factura: 1                  Fecha: 2024-08-20
+Cliente: Luis Rodolfo
+Destinario: Andy
+----------------------------------------------
+Peso   Tipo de Paquete      Precio     Monto
+----------------------------------------------
+11        Alimentos           24000      264000
+5         Alimentos           24000      120000
+----------------------------------------------
+                             SubTotal  384000.0
+                             Descuento 38400.0
+                             Total     345600.0
